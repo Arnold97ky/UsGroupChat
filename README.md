@@ -1,7 +1,7 @@
 # MyLibrary
 
 A description of this package.
-
+Working in team (Team US), and doing a project on messaging app with UK team. Idea is to person a basic messaging app on 1 to 1 for tje first step and then check which team will get the better app. Idea is to train my team and give them some advice on how to work with Firebase, some Packages and also how to work in team.
 
 ## Groups
 
