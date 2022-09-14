@@ -8,7 +8,7 @@ A description of this package.
 - **Authentication** - Raúl, Felipe
 - **Updating User Info** - Chuuy, Marquis
 - **Messages (sending, creating, receiving, deleting, etc.)** - Oscar, Denisse, Jennifer
-    - **Attachments (creating, deleting)** - Odinaka, Arnold
+    - **Attachments (creating, deleting)** -  Arnold
 - **Groups (creating, managing, deleting, etc.) ** - Meder, Christian
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
